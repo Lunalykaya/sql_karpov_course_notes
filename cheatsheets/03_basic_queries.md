@@ -66,7 +66,7 @@ SELECT '2022-12-31'::DATE           → 31/12/22
 | `DATE_PART('part', date_col)` | Извлекает часть даты | `DATE_PART('year', DATE '2023-01-01')` → `2023.00` |
 
 **Части, которые можно извлечь:**
-`'year'`, `'month'`, `'day'`, `'hour'`, `'minute'`, `'second'` и др.
+`'year'`, `'month'`, `'day'`, `'hour'`, `'minute'`, `'second'`, `'dow'`("day of week", в PostgreSQL дни недели считаются с воскресенья (0) до субботы (6)), и др.
 
 ---
 
