@@ -13,9 +13,9 @@
 
 ### Шпаргалки
 - [03. Базовые запросы](https://github.com/Lunalykaya/sql_karpov_course_notes/blob/main/cheatsheets/03_basic_queries.md)
-- [04. Фильтрация данных](https://github.com/Lunalykaya/sql_karpov_course_notes/blob/main/cheatsheets/04_data_filtering.md)  
-  дальше пока пусто   
-- [05. Агрегация данных]()
+- [04. Фильтрация данных](https://github.com/Lunalykaya/sql_karpov_course_notes/blob/main/cheatsheets/04_data_filtering.md)    
+- [05. Агрегация данных](https://github.com/Lunalykaya/sql_karpov_course_notes/blob/main/cheatsheets/05_data_aggregation.md)
+- дальше пока пусто 
 - [06. Группировка данных]()
 - [07. Подзапросы]()
 - [08. Join]()
